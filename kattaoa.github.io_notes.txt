@@ -1,0 +1,90 @@
+### OBJECTIVE
+Create a user site using Jekyll and GitHub Pages.
+
+
+### JEKYLL INSTALLATION
+ruby -v
+gem -v
+gem install bundler jekyll
+jekyll -v
+
+### GITHUB SETUP
+# In GitHub, create a new public repository titled kattaoa.github.io
+
+### JEKYLL SETUP
+cd Desktop
+jekyll new kattaoa.github.io
+cd kattaoa.github.io
+# if working on a project site as opposed to a user site: In _config.yaml, change baseurl to the name of the repo: kattaoa.github.io
+
+### CONNECT GITHUB AND JEKYLL SETUPS
+git init
+git checkout -b master
+git status
+git add .
+git commit -m "initial commit"
+git remote add origin https://github.com/kattaoa/github.io.git
+git push origin master
+
+
+
+
+### ADD FOLDERS
+mkdir _drafts
+mkdir _layouts
+mkdir _includes
+mkdir _data
+mkdir _sass
+mkdir assets
+mkdir pages
+
+### RESOURCES
+# https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19
+# https://github.com/fditraglia/fditraglia.github.io
+
+
+
+
+########################
+
+# SET UP SITE
+# cd <path_to_file>
+jekyll new <name_of_site>
+cd <name_of_site>
+mkdir _drafts	# use for drafts
+mkdir _layouts 	# create html layouts in this folder
+mkdir _includes	# create html layouts in this folder to include in other layouts
+mkdir _data	# create data
+mkdir _sass	# style sheets
+mkdir assets	# store static files
+# touch _includes/header.html
+bundle exec jekyll serve # run for first time
+# jekyll serve # run for second time and beyond; use '--draft' to see drafts
+
+# CHANGE FRONT MATTER DEFAULTS
+# nano _config.yml
+# This is where you change the settings. We want to change the files in _posts to have the "post" layout with the author as "Omkar A. Katta"
+defaults:
+  -
+    scope:
+      path: ""		    # empty => all files
+      type: "posts"   # applies to those in _posts
+    values:
+      layout: "post"
+      author: "Omkar A. Katta"
+  -
+    scope:
+      path: "dir1"    # applies to files in dir1      
+    values:
+      layout: "page"
+
+# GITHUB PAGES
+
+
+# CHANGE THEME
+# nano Gemfile
+# Add: gem "new_theme-jekyll" # find jekyll-themes on https://rubygems.org/
+# bundle update
+# Update 'theme' in _config.yml
+# bundle exec jekyll serve
+# Make sure layouts of the page are valid. This is why you should set up default layouts in your _config.yml
