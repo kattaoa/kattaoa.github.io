@@ -1,6 +1,6 @@
 ---
 title: Bio
-permalink: /Bio/
+permalink: /bio/
 ---
 
 I am a senior studying Mathematical Economics at the University of Pennsylvania.
