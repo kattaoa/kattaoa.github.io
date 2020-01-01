@@ -1,6 +1,7 @@
 # WORK-IN-PROGRESS
 
 ### TO-DO
+
 * add a research statement
   * acknowledge this is a working document. I am still young so I have yet to review all the necessary literature to publish such a statement with any semblance of finality. And I will likely change all my interests. Thus, I focus more on the research philosophy I wish to carry as I conduct research more than I do on the research I will actually conduct. This is a working document and would invite anyone else's thoughts. I can never have too many friends interested in discussing research.
   * application interests
@@ -14,7 +15,9 @@
     * reproducibility
     * transparency
     * honesty
+
 * research synopsis
+
 * add a teaching philosophy: create a full essay and then a summary
   * do i really need a whole page for teaching yet?
   * This is a working document that is meant to document my thoughts. As I grow, so too will these thoughts. Mainly for my benefit, I am recording the thoughts below, but I have decided to share this work-in-progress now to invite anyone to contact me if they would like to discuss. I can never have too many friends interested in discussing education.
@@ -42,7 +45,12 @@
       * I can tolerate and maybe even encourage: “will I ever use this?” mentality
   * different people want different things out of a class i may teach. so i need to cater to everyone without sacrificing the fundamental essence of the class. i also need to examine everyone differently because of these different goals. 
   * it is okay/necessary to fail
+  * create an environment where...
+    * students are comfortable speaking up: "the only stupid question is the one that is not asked." Trust that the students are capable enough to ask responsible questions at the appropriate time.
+    * students do not feel belittled or stupid. This often means ensuring a balance in participation between the extroverted students and introverted students.
 
 * add a page for coursework.
 * update bio
 * potentially add miscellaneous page: e.g., my art and musical experiences
+
+* link readings somehow?
