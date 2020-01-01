@@ -1,0 +1,48 @@
+# WORK-IN-PROGRESS
+
+### TO-DO
+* add a research statement
+  * acknowledge this is a working document. I am still young so I have yet to review all the necessary literature to publish such a statement with any semblance of finality. And I will likely change all my interests. Thus, I focus more on the research philosophy I wish to carry as I conduct research more than I do on the research I will actually conduct. This is a working document and would invite anyone else's thoughts. I can never have too many friends interested in discussing research.
+  * application interests
+    * economics: microeconometrics, decision-making, matching theory
+    * education: incentive design, curriculum design, pedagogical evaluation
+  * methodological interests
+    * I am interested in the logistical undertakings of field experiments and research design
+    * I am interested in the challenge of teasing causality in observational studies
+    * I am interested in conducting research not only in interdisciplinary subjects but also in an interdisciplinary way
+  * research as a whole
+    * reproducibility
+    * transparency
+    * honesty
+* research synopsis
+* add a teaching philosophy: create a full essay and then a summary
+  * do i really need a whole page for teaching yet?
+  * This is a working document that is meant to document my thoughts. As I grow, so too will these thoughts. Mainly for my benefit, I am recording the thoughts below, but I have decided to share this work-in-progress now to invite anyone to contact me if they would like to discuss. I can never have too many friends interested in discussing education.
+  * For me to describe the promises I will uphold as a teacher, I must frame it within the discussion of the context in which I will teach. Hence, I will have to discuss the education field to describe my teaching philosophy.
+  * what is the purpose of education? what is the return to education?
+    * practical: prepare for the meaningful contribution to labor market
+    * ideal/philosophical:
+  * rate of knowledge production vs rate of knowledge acquisition
+  * abstraction: teaching how to approach and solve problems rather than teaching the answer to a problem; teaching how to think rather than what to think
+  * How can I, as a teacher, contribute to a student that cannot be found elsewhere? There is a high cost to attending college. How do we justify the cost?
+    * One pov: if there is no difference between self-learning with textbooks and going to college, then cost of college and cost of self-learning should be the same. Else, the cost of college is essentially just the cost of being awarded a diploma cuz everything else is the same (this is a broad generalization because I suppose I am also paying for the college experience e.g. dorm life and extracurricular, etc.)
+    * Second pov: I need to add value somehow
+      * Method 1: be a personal resource. I can provide individual assistance to fuel a student’s interest or help them with their life and career plans; flip-rooming? 
+      * Method 2: I need to teach beyond what they can find in a textbook. What is the advantage to being taught by someone else in a lecture/seminar setting over being taught by yourself via videos or textbooks? Especially in the presence of my commitment to open-source 
+  * education as an institution for growth not for filtration
+  *  what are the modern challenges of education, and how will I address it?
+  * commitment to open-source materials
+  * active vs unintended goals of education
+    * active: transfer knowledge and inspire curiosity
+    * unintended: empathy, citizenship, equal opportunity
+  * study for life, not for an exam
+    * I don’t like: “will this be on the test?” mentality
+      * sometimes, this arises due to impatience or lack of enthusiasm
+      * sometimes, this arises due to lack of time necessary to devote to this class and so there needs to be prioritization
+      * I can tolerate and maybe even encourage: “will I ever use this?” mentality
+  * different people want different things out of a class i may teach. so i need to cater to everyone without sacrificing the fundamental essence of the class. i also need to examine everyone differently because of these different goals. 
+  * it is okay/necessary to fail
+
+* add a page for coursework.
+* update bio
+* potentially add miscellaneous page: e.g., my art and musical experiences

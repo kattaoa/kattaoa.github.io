@@ -38,23 +38,3 @@ mkdir pages
 ### RESOURCES
 # https://www.youtube.com/watch?v=fqFjuX4VZmU&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=19
 # https://github.com/fditraglia/fditraglia.github.io
-
-### TO-DO
-* add a research statement
-	* acknowledge this is a working document. I am still young so I have yet to review all the necessary literature to publish such a statement with any semblance of finality. And I will likely change all my interests.
-	* application interests
-		* economics: microeconometrics, decision-making, matching theory
-		* education: incentive design, curriculum design, pedagogical evaluation
-	* methodological interests
-		* I am interested in the logistical undertakings of field experiments and research design
- 		* I am interested in the challenge of teasing causality in observational studies
-		* I am interested in conducting research not only in interdisciplinary subjects but also in an interdisciplinary way
-		* reproducibility
-		* transparency
-		* honesty
-* research synopsis
-* add a teaching philosophy
-  * do i really need a whole page for teaching yet?
-* add a page for coursework
-* update bio
-* potentially add miscellaneous page: e.g., my art and musical experiences
